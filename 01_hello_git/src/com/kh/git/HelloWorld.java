@@ -11,6 +11,7 @@ public class HelloWorld {
 		
 		new Foo().sayFoo();
 		new Foo().sayFoo();// #sayFoo에서 추가
+		new Foo().sayFoo();// #sayFoo에서 추가2
 	}
 
 }
