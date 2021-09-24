@@ -8,7 +8,9 @@ public class HelloWorld {
 		System.out.println("Hello world~");
 		System.out.println("hello git~");
 		System.out.println("Good luck~");
+		
 		new Foo().sayFoo();
+		new Foo().sayFoo();// #sayFoo에서 추가
 	}
 
 }
